@@ -72,9 +72,9 @@ function Contact() {
                     <button type="submit" className="contact_button">Send</button>
                 </form>
                 <div className="socials">
-                    <a href='https://github.com/nicoleesposito'><img src="/portfolio/img/github.png"></img></a>
-                    <a href='https://www.linkedin.com/in/nicole--esposito/'><img src="/portfolio/img/linkedin.png"></img></a>
-                    <a href='https://app.joinhandshake.com/profiles/8tcgpq'><img src="/portfolio/img/handshake.png"></img></a>
+                    <a href='https://github.com/nicoleesposito'><img src="/Portfolio/img/github.png"></img></a>
+                    <a href='https://www.linkedin.com/in/nicole--esposito/'><img src="/Portfolio/img/linkedin.png"></img></a>
+                    <a href='https://app.joinhandshake.com/profiles/8tcgpq'><img src="/Portfolio/img/handshake.png"></img></a>
                 </div>
             </motion.div>
         </section>

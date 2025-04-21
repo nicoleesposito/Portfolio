@@ -8,25 +8,25 @@ function Projects() {
             title: 'Exercise App',
             description: 'Using React, I developed an Exercise App designed to assist users with their workout routines. The app features both a countdown timer and a stopwatch, allowing users to either set timed intervals for exercises or track time freely. The interface has labeled controls for starting, pausing, and resetting each function. This project emphasizes real-time updates using state management and showcases my ability to create interactive, web applications focused on functionality.',
             link: 'https://nicoleesposito.github.io/updated-exercise-app/',
-            image: '/portfolio/img/exercise.jpg',
+            image: '/Portfolio/img/exercise.jpg',
         },
         {
             title: 'To-Do List',
             description: 'I built a To-Do List application using React Native, designed for mobile use. The app allows users to seamlessly add, view, and mark tasks completed, making it a practical tool for daily organization. It features a simple interface optimized for touch interaction. This project demonstrates my ability to create efficient mobile applications while following best practices in React Native development.',
             link: 'https://nicoleesposito.github.io/ExpoTodoList/',
-            image: '/portfolio/img/todolist.jpg',
+            image: '/Portfolio/img/todolist.jpg',
         },
         {
             title: 'Quiz App',
             description: 'I built a Content Management System (CMS) for game reviews using PHP. This web application allows users to log in to an account and interact with the platform by submitting game reviews and posting comments. The system includes user-based permissions to control access, and it dynamically generates an RSS feed and an XML output of the reviews, demonstrating proficiency in server-side scripting and data syndication. The project emphasizes secure form handling, session management, and database integration— offering a backend experience tailored to content publishing.',
             link: 'https://github.com/nicoleesposito/ReactNativeQuizApp',
-            image: '/portfolio/img/quiz.jpg',
+            image: '/Portfolio/img/quiz.jpg',
         },
         {
             title: 'Game Review - Content Management System',
             description: 'Utilizing PHP, I created a content management system for game reviews. It allows users to leave reviews, submit comments, and have profile accounts. It additionally sends reviews into an RSS feed and outputs into an XML file.',
             link: 'https://students.gaim.ucf.edu/~ni880937/dig3134c/assignment05/reviews.php',
-            image: '/portfolio/img/CMS.jpg',
+            image: '/Portfolio/img/CMS.jpg',
         }
     ];
 

@@ -48,9 +48,9 @@ function About() {
                         viewport={{ once: true }}
                         transition={{ duration: 0.6, delay: 0.8 }}
                     >
-                        <div className="skill"><img src='/portfolio/img/code.png' alt="Code" />HTML, CSS, JavaScript, PHP, SASS</div>
-                        <div className="skill"><img src='/portfolio/img/physics.png' alt="React" />React & React Native</div>
-                        <div className="skill"><img src='/portfolio/img/ui.png' alt="UI" />UI/UX and responsive design</div>
+                        <div className="skill"><img src='/Portfolio/img/code.png' alt="Code" />HTML, CSS, JavaScript, PHP, SASS</div>
+                        <div className="skill"><img src='/Portfolio/img/physics.png' alt="React" />React & React Native</div>
+                        <div className="skill"><img src='/Portfolio/img/ui.png' alt="UI" />UI/UX and responsive design</div>
                     </motion.div>
 
                     <motion.div
@@ -60,9 +60,9 @@ function About() {
                         viewport={{ once: true }}
                         transition={{ duration: 0.6, delay: 1.0 }}
                     >
-                        <div className="skill"><img src='/portfolio/img/bug.png' alt="Bug" />Testing & Debugging</div>
-                        <div className="skill"><img src='/portfolio/img/database-storage.png' alt="DB" />PHPMyAdmin + MySQL</div>
-                        <div className="skill"><img src='/portfolio/img/git.png' alt="Git" />Version Control (Git/GitHub)</div>
+                        <div className="skill"><img src='/Portfolio/img/bug.png' alt="Bug" />Testing & Debugging</div>
+                        <div className="skill"><img src='/Portfolio/img/database-storage.png' alt="DB" />PHPMyAdmin + MySQL</div>
+                        <div className="skill"><img src='/Portfolio/img/git.png' alt="Git" />Version Control (Git/GitHub)</div>
                     </motion.div>
                 </div>
             </motion.div>
