@@ -18,13 +18,13 @@ function Projects() {
         },
         {
             title: 'Quiz App',
-            description: 'I built a Content Management System (CMS) for game reviews using PHP. This web application allows users to log in to an account and interact with the platform by submitting game reviews and posting comments. The system includes user-based permissions to control access, and it dynamically generates an RSS feed and an XML output of the reviews, demonstrating proficiency in server-side scripting and data syndication. The project emphasizes secure form handling, session management, and database integration— offering a backend experience tailored to content publishing.',
+            description: 'I developed an interactive Quiz App using React Native that supports multiple types of questions including single-answer, multiple-choice, and true/false formats. The app tracks user selections throughout the quiz and calculates the final score, displaying it upon completion. It features a simple navigation and a responsive layout created for mobile devices. This project showcases my skills in managing state and structuring user-friendly experiences in mobile applications using React Native.',
             link: 'https://github.com/nicoleesposito/ReactNativeQuizApp',
             image: '/Portfolio/img/quiz.jpg',
         },
         {
             title: 'Game Review - Content Management System',
-            description: 'Utilizing PHP, I created a content management system for game reviews. It allows users to leave reviews, submit comments, and have profile accounts. It additionally sends reviews into an RSS feed and outputs into an XML file.',
+            description: 'I built a Content Management System (CMS) for game reviews using PHP. This web application allows users to log in to an account and interact with the platform by submitting game reviews and posting comments. The system includes user-based permissions to control access, and it dynamically generates an RSS feed and an XML output of the reviews, demonstrating proficiency in server-side scripting and data syndication. The project emphasizes secure form handling, session management, and database integration— offering a backend experience tailored to content publishing.',
             link: 'https://students.gaim.ucf.edu/~ni880937/dig3134c/assignment05/reviews.php',
             image: '/Portfolio/img/CMS.jpg',
         }
