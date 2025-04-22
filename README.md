@@ -17,10 +17,14 @@ This repository contains my personal portfolio using React. It was created for M
 This project was created using Vite. To run it locally, Clone the repository.
 
 Run:
-git clone
-https://github.com/nicoleesposito/Portfolio.git
+git clone https://github.com/nicoleesposito/Portfolio.git  
 cd Portfolio
 
 You can also view this website on GitHub Pages:
 https://nicoleesposito.github.io/Portfolio/
+
+OR
+
+View the demo video on YouTube: https://www.youtube.com/watch?v=VEpQ9bKv4eU
+
 
